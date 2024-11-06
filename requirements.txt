@@ -1,0 +1,10 @@
+streamlit
+whisper
+git+https://github.com/openai/whisper.git
+llama-index-readers-file
+pydub
+openai
+streamlit
+youtube_transcript_api
+PyPDF2
+python-docx
