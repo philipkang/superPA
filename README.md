@@ -3,5 +3,7 @@ A Super File Assistant to instantly summarize and answer questions about your mo
 
 Deployment
 
+set OPENAI_API_KEY 
+
 stremlit run PA_document.py
 
